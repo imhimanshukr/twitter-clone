@@ -315,7 +315,7 @@ export default {
                 }
             ],
             tweets: [{
-                content: 'It is so nice outside!'
+                content: 'It is so nice outsde!'
             }],
             tweet: {
                 content: ''
